@@ -1,0 +1,2121 @@
+fileFormatVersion: 2
+guid: 454edeef73347fe4b911a25499782c3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8747500058372415436
+    second: Explosion_Darkness_v1_A_spritesheet_0
+  - first:
+      213: -5738450611730083693
+    second: Explosion_Darkness_v1_A_spritesheet_1
+  - first:
+      213: -5333394517369319302
+    second: Explosion_Darkness_v1_A_spritesheet_2
+  - first:
+      213: -3916877112899865012
+    second: Explosion_Darkness_v1_A_spritesheet_3
+  - first:
+      213: -6220532119122498171
+    second: Explosion_Darkness_v1_A_spritesheet_4
+  - first:
+      213: 6564802504515220250
+    second: Explosion_Darkness_v1_A_spritesheet_5
+  - first:
+      213: 2678017291544214159
+    second: Explosion_Darkness_v1_A_spritesheet_6
+  - first:
+      213: 3477614732789545338
+    second: Explosion_Darkness_v1_A_spritesheet_7
+  - first:
+      213: 935423918799055028
+    second: Explosion_Darkness_v1_A_spritesheet_8
+  - first:
+      213: 7597847966124160984
+    second: Explosion_Darkness_v1_A_spritesheet_9
+  - first:
+      213: -7961833866360694254
+    second: Explosion_Darkness_v1_A_spritesheet_10
+  - first:
+      213: 3487317668381528080
+    second: Explosion_Darkness_v1_A_spritesheet_11
+  - first:
+      213: -6218740187454964299
+    second: Explosion_Darkness_v1_A_spritesheet_12
+  - first:
+      213: -5328793596951322611
+    second: Explosion_Darkness_v1_A_spritesheet_13
+  - first:
+      213: 8952418209788258208
+    second: Explosion_Darkness_v1_A_spritesheet_14
+  - first:
+      213: -5295302885971014437
+    second: Explosion_Darkness_v1_A_spritesheet_15
+  - first:
+      213: -6593684728106130701
+    second: Explosion_Darkness_v1_A_spritesheet_16
+  - first:
+      213: -643692428808512595
+    second: Explosion_Darkness_v1_A_spritesheet_17
+  - first:
+      213: -9049539575423925096
+    second: Explosion_Darkness_v1_A_spritesheet_18
+  - first:
+      213: -3513309290375823753
+    second: Explosion_Darkness_v1_A_spritesheet_19
+  - first:
+      213: -2996548203228438550
+    second: Explosion_Darkness_v1_A_spritesheet_20
+  - first:
+      213: -4546455065295083991
+    second: Explosion_Darkness_v1_A_spritesheet_21
+  - first:
+      213: -675022811542819383
+    second: Explosion_Darkness_v1_A_spritesheet_22
+  - first:
+      213: -7920029972659774767
+    second: Explosion_Darkness_v1_A_spritesheet_23
+  - first:
+      213: -7535458649932034375
+    second: Explosion_Darkness_v1_A_spritesheet_24
+  - first:
+      213: -7993156344675398626
+    second: Explosion_Darkness_v1_A_spritesheet_25
+  - first:
+      213: 8018520510246639356
+    second: Explosion_Darkness_v1_A_spritesheet_26
+  - first:
+      213: 5468809863560056963
+    second: Explosion_Darkness_v1_A_spritesheet_27
+  - first:
+      213: -5246339336131741705
+    second: Explosion_Darkness_v1_A_spritesheet_28
+  - first:
+      213: 6890556859604787593
+    second: Explosion_Darkness_v1_A_spritesheet_29
+  - first:
+      213: -5667671384096278778
+    second: Explosion_Darkness_v1_A_spritesheet_30
+  - first:
+      213: 7034785670071025216
+    second: Explosion_Darkness_v1_A_spritesheet_31
+  - first:
+      213: -5618532464113524713
+    second: Explosion_Darkness_v1_A_spritesheet_32
+  - first:
+      213: -2812909349079242239
+    second: Explosion_Darkness_v1_A_spritesheet_33
+  - first:
+      213: -4159758801668508503
+    second: Explosion_Darkness_v1_A_spritesheet_34
+  - first:
+      213: -1845130121589137816
+    second: Explosion_Darkness_v1_A_spritesheet_35
+  - first:
+      213: 1482586955529266964
+    second: Explosion_Darkness_v1_A_spritesheet_36
+  - first:
+      213: 3829176297666881670
+    second: Explosion_Darkness_v1_A_spritesheet_37
+  - first:
+      213: -2170231423206227663
+    second: Explosion_Darkness_v1_A_spritesheet_38
+  - first:
+      213: -8452108343421035779
+    second: Explosion_Darkness_v1_A_spritesheet_39
+  - first:
+      213: -1122603978721302550
+    second: Explosion_Darkness_v1_A_spritesheet_40
+  - first:
+      213: 7791689093519577849
+    second: Explosion_Darkness_v1_A_spritesheet_41
+  - first:
+      213: 7299852245864038739
+    second: Explosion_Darkness_v1_A_spritesheet_42
+  - first:
+      213: 8303000239640332313
+    second: Explosion_Darkness_v1_A_spritesheet_43
+  - first:
+      213: 4621723347227676566
+    second: Explosion_Darkness_v1_A_spritesheet_44
+  - first:
+      213: -7429111974978434911
+    second: Explosion_Darkness_v1_A_spritesheet_45
+  - first:
+      213: -7582551178803791498
+    second: Explosion_Darkness_v1_A_spritesheet_46
+  - first:
+      213: -1425806536049953667
+    second: Explosion_Darkness_v1_A_spritesheet_47
+  - first:
+      213: -2211646358966322114
+    second: Explosion_Darkness_v1_A_spritesheet_48
+  - first:
+      213: -7945465867236042781
+    second: Explosion_Darkness_v1_A_spritesheet_49
+  - first:
+      213: -2001638456361425632
+    second: Explosion_Darkness_v1_A_spritesheet_50
+  - first:
+      213: -4896932748162417976
+    second: Explosion_Darkness_v1_A_spritesheet_51
+  - first:
+      213: -5893686306874247758
+    second: Explosion_Darkness_v1_A_spritesheet_52
+  - first:
+      213: -6091363578899591758
+    second: Explosion_Darkness_v1_A_spritesheet_53
+  - first:
+      213: 2905290499728780912
+    second: Explosion_Darkness_v1_A_spritesheet_54
+  - first:
+      213: -1610237097221202979
+    second: Explosion_Darkness_v1_A_spritesheet_55
+  - first:
+      213: 8654647266179995160
+    second: Explosion_Darkness_v1_A_spritesheet_56
+  - first:
+      213: -7404727612663097935
+    second: Explosion_Darkness_v1_A_spritesheet_57
+  - first:
+      213: -7754098553974784184
+    second: Explosion_Darkness_v1_A_spritesheet_58
+  - first:
+      213: 9191603525127955267
+    second: Explosion_Darkness_v1_A_spritesheet_59
+  - first:
+      213: -8704861054417153434
+    second: Explosion_Darkness_v1_A_spritesheet_60
+  - first:
+      213: -5242647567946517682
+    second: Explosion_Darkness_v1_A_spritesheet_61
+  - first:
+      213: 934989862142449606
+    second: Explosion_Darkness_v1_A_spritesheet_62
+  - first:
+      213: -4209188712202654765
+    second: Explosion_Darkness_v1_A_spritesheet_63
+  - first:
+      213: 188469878020188942
+    second: Explosion_Darkness_v1_A_spritesheet_64
+  - first:
+      213: 6658887651674414485
+    second: Explosion_Darkness_v1_A_spritesheet_65
+  - first:
+      213: 2154562910375877833
+    second: Explosion_Darkness_v1_A_spritesheet_66
+  - first:
+      213: -8610771245254385953
+    second: Explosion_Darkness_v1_A_spritesheet_67
+  - first:
+      213: -4510562773916068548
+    second: Explosion_Darkness_v1_A_spritesheet_68
+  - first:
+      213: 6968401292975169135
+    second: Explosion_Darkness_v1_A_spritesheet_69
+  - first:
+      213: -2517912380616453683
+    second: Explosion_Darkness_v1_A_spritesheet_70
+  - first:
+      213: -4422071187060303722
+    second: Explosion_Darkness_v1_A_spritesheet_71
+  - first:
+      213: -8251827972822273824
+    second: Explosion_Darkness_v1_A_spritesheet_72
+  - first:
+      213: 5571230554288216761
+    second: Explosion_Darkness_v1_A_spritesheet_73
+  - first:
+      213: 7912566377804871180
+    second: Explosion_Darkness_v1_A_spritesheet_74
+  - first:
+      213: 215428291019415099
+    second: Explosion_Darkness_v1_A_spritesheet_75
+  - first:
+      213: 2396325468008090580
+    second: Explosion_Darkness_v1_A_spritesheet_76
+  - first:
+      213: -7774676852788771435
+    second: Explosion_Darkness_v1_A_spritesheet_77
+  - first:
+      213: 6324287652461362594
+    second: Explosion_Darkness_v1_A_spritesheet_78
+  - first:
+      213: -1150995139293925609
+    second: Explosion_Darkness_v1_A_spritesheet_79
+  - first:
+      213: 6130747153483411815
+    second: Explosion_Darkness_v1_A_spritesheet_80
+  - first:
+      213: -5954966883708736395
+    second: Explosion_Darkness_v1_A_spritesheet_81
+  - first:
+      213: 2108616384268579736
+    second: Explosion_Darkness_v1_A_spritesheet_82
+  - first:
+      213: 4152959528214419663
+    second: Explosion_Darkness_v1_A_spritesheet_83
+  - first:
+      213: 7588182562330109488
+    second: Explosion_Darkness_v1_A_spritesheet_84
+  - first:
+      213: -3595632552263622109
+    second: Explosion_Darkness_v1_A_spritesheet_85
+  - first:
+      213: -278432736608717107
+    second: Explosion_Darkness_v1_A_spritesheet_86
+  - first:
+      213: -6690477755049731629
+    second: Explosion_Darkness_v1_A_spritesheet_87
+  - first:
+      213: 6895103657609559736
+    second: Explosion_Darkness_v1_A_spritesheet_88
+  - first:
+      213: -3415136152724532763
+    second: Explosion_Darkness_v1_A_spritesheet_89
+  - first:
+      213: 5426078883406620026
+    second: Explosion_Darkness_v1_A_spritesheet_90
+  - first:
+      213: -7294846286251247953
+    second: Explosion_Darkness_v1_A_spritesheet_91
+  - first:
+      213: -4191595629533494895
+    second: Explosion_Darkness_v1_A_spritesheet_92
+  - first:
+      213: -7419822779361143400
+    second: Explosion_Darkness_v1_A_spritesheet_93
+  - first:
+      213: 5248198972823205911
+    second: Explosion_Darkness_v1_A_spritesheet_94
+  - first:
+      213: 4614468185979402318
+    second: Explosion_Darkness_v1_A_spritesheet_95
+  - first:
+      213: -1588886016547268549
+    second: Explosion_Darkness_v1_A_spritesheet_96
+  - first:
+      213: -1192637163859386487
+    second: Explosion_Darkness_v1_A_spritesheet_97
+  - first:
+      213: 2036902061104373334
+    second: Explosion_Darkness_v1_A_spritesheet_98
+  - first:
+      213: -3246866093905096430
+    second: Explosion_Darkness_v1_A_spritesheet_99
+  - first:
+      213: 2341816155464636027
+    second: Explosion_Darkness_v1_A_spritesheet_100
+  - first:
+      213: -1364240564358627001
+    second: Explosion_Darkness_v1_A_spritesheet_101
+  - first:
+      213: -4555775036973151817
+    second: Explosion_Darkness_v1_A_spritesheet_102
+  - first:
+      213: -1408015071528885049
+    second: Explosion_Darkness_v1_A_spritesheet_103
+  - first:
+      213: -3493699226792519260
+    second: Explosion_Darkness_v1_A_spritesheet_104
+  - first:
+      213: -46447485789563334
+    second: Explosion_Darkness_v1_A_spritesheet_105
+  - first:
+      213: -7855597695838754606
+    second: Explosion_Darkness_v1_A_spritesheet_106
+  - first:
+      213: -6748501048385473217
+    second: Explosion_Darkness_v1_A_spritesheet_107
+  - first:
+      213: -1616143112870096415
+    second: Explosion_Darkness_v1_A_spritesheet_108
+  - first:
+      213: -5473855978698844327
+    second: Explosion_Darkness_v1_A_spritesheet_109
+  - first:
+      213: 7553870373973329926
+    second: Explosion_Darkness_v1_A_spritesheet_110
+  - first:
+      213: -3199707823202118892
+    second: Explosion_Darkness_v1_A_spritesheet_111
+  - first:
+      213: 5194714104845698382
+    second: Explosion_Darkness_v1_A_spritesheet_112
+  - first:
+      213: -7843452452080213065
+    second: Explosion_Darkness_v1_A_spritesheet_113
+  - first:
+      213: -2552887808260771980
+    second: Explosion_Darkness_v1_A_spritesheet_114
+  - first:
+      213: 5557681835940529417
+    second: Explosion_Darkness_v1_A_spritesheet_115
+  - first:
+      213: -1947464750569753426
+    second: Explosion_Darkness_v1_A_spritesheet_116
+  - first:
+      213: 7719947810491898447
+    second: Explosion_Darkness_v1_A_spritesheet_117
+  - first:
+      213: 1558744025181364505
+    second: Explosion_Darkness_v1_A_spritesheet_118
+  - first:
+      213: 4820280316250500661
+    second: Explosion_Darkness_v1_A_spritesheet_119
+  - first:
+      213: 1341551491369226232
+    second: Explosion_Darkness_v1_A_spritesheet_120
+  - first:
+      213: -7486328694346208739
+    second: Explosion_Darkness_v1_A_spritesheet_121
+  - first:
+      213: 6812609591856398598
+    second: Explosion_Darkness_v1_A_spritesheet_122
+  - first:
+      213: 6444362085865115025
+    second: Explosion_Darkness_v1_A_spritesheet_123
+  - first:
+      213: -7643860003068411339
+    second: Explosion_Darkness_v1_A_spritesheet_124
+  - first:
+      213: -2885419914568407426
+    second: Explosion_Darkness_v1_A_spritesheet_125
+  - first:
+      213: -3375826290722091352
+    second: Explosion_Darkness_v1_A_spritesheet_126
+  - first:
+      213: -1253684957058800178
+    second: Explosion_Darkness_v1_A_spritesheet_127
+  - first:
+      213: 2655486914891427641
+    second: Explosion_Darkness_v1_A_spritesheet_128
+  - first:
+      213: -1613355429334764078
+    second: Explosion_Darkness_v1_A_spritesheet_129
+  - first:
+      213: -2182776947396719164
+    second: Explosion_Darkness_v1_A_spritesheet_130
+  - first:
+      213: 5069068452321526672
+    second: Explosion_Darkness_v1_A_spritesheet_131
+  - first:
+      213: -6739975385877740433
+    second: Explosion_Darkness_v1_A_spritesheet_132
+  - first:
+      213: -5951332156223005232
+    second: Explosion_Darkness_v1_A_spritesheet_133
+  - first:
+      213: 4914975407013167993
+    second: Explosion_Darkness_v1_A_spritesheet_134
+  - first:
+      213: -7226135919616597603
+    second: Explosion_Darkness_v1_A_spritesheet_135
+  - first:
+      213: -744717929353693922
+    second: Explosion_Darkness_v1_A_spritesheet_136
+  - first:
+      213: 2814565811900079189
+    second: Explosion_Darkness_v1_A_spritesheet_137
+  - first:
+      213: -2664729072571338556
+    second: Explosion_Darkness_v1_A_spritesheet_138
+  - first:
+      213: -6777664313502288169
+    second: Explosion_Darkness_v1_A_spritesheet_139
+  - first:
+      213: -1441501254152818402
+    second: Explosion_Darkness_v1_A_spritesheet_140
+  - first:
+      213: 4701678094933017971
+    second: Explosion_Darkness_v1_A_spritesheet_141
+  - first:
+      213: -1739256579631614272
+    second: Explosion_Darkness_v1_A_spritesheet_142
+  - first:
+      213: 5302930418105488246
+    second: Explosion_Darkness_v1_A_spritesheet_143
+  - first:
+      213: 3983513617325894630
+    second: Explosion_Darkness_v1_A_spritesheet_144
+  - first:
+      213: 4075285088735112686
+    second: Explosion_Darkness_v1_A_spritesheet_145
+  - first:
+      213: -1165902330070640587
+    second: Explosion_Darkness_v1_A_spritesheet_146
+  - first:
+      213: -9122645890819537971
+    second: Explosion_Darkness_v1_A_spritesheet_147
+  - first:
+      213: -3543577205713158253
+    second: Explosion_Darkness_v1_A_spritesheet_148
+  - first:
+      213: -1548564436538193177
+    second: Explosion_Darkness_v1_A_spritesheet_149
+  - first:
+      213: 8542424588286135922
+    second: Explosion_Darkness_v1_A_spritesheet_150
+  - first:
+      213: -7196624016429901294
+    second: Explosion_Darkness_v1_A_spritesheet_151
+  - first:
+      213: 6319828970186544738
+    second: Explosion_Darkness_v1_A_spritesheet_152
+  - first:
+      213: 3119769010331950515
+    second: Explosion_Darkness_v1_A_spritesheet_153
+  - first:
+      213: -7293903133010519043
+    second: Explosion_Darkness_v1_A_spritesheet_154
+  - first:
+      213: 849814179875977153
+    second: Explosion_Darkness_v1_A_spritesheet_155
+  - first:
+      213: -1611426335986710896
+    second: Explosion_Darkness_v1_A_spritesheet_156
+  - first:
+      213: 2765642050345694080
+    second: Explosion_Darkness_v1_A_spritesheet_157
+  - first:
+      213: 3757834190913373512
+    second: Explosion_Darkness_v1_A_spritesheet_158
+  - first:
+      213: 3449277987846018138
+    second: Explosion_Darkness_v1_A_spritesheet_159
+  - first:
+      213: 3540218912608837473
+    second: Explosion_Darkness_v1_A_spritesheet_160
+  - first:
+      213: -7713594513923579848
+    second: Explosion_Darkness_v1_A_spritesheet_161
+  - first:
+      213: 6595180694603151065
+    second: Explosion_Darkness_v1_A_spritesheet_162
+  - first:
+      213: -6187679571038355141
+    second: Explosion_Darkness_v1_A_spritesheet_163
+  - first:
+      213: 1190213421334527106
+    second: Explosion_Darkness_v1_A_spritesheet_164
+  - first:
+      213: 9154364256805336035
+    second: Explosion_Darkness_v1_A_spritesheet_165
+  - first:
+      213: -3640491867897694444
+    second: Explosion_Darkness_v1_A_spritesheet_166
+  - first:
+      213: -5573434068643569795
+    second: Explosion_Darkness_v1_A_spritesheet_167
+  - first:
+      213: 9121349365396202085
+    second: Explosion_Darkness_v1_A_spritesheet_168
+  - first:
+      213: -7696424785368769988
+    second: Explosion_Darkness_v1_A_spritesheet_169
+  - first:
+      213: 7458816023490798427
+    second: Explosion_Darkness_v1_A_spritesheet_170
+  - first:
+      213: -1693883313516283489
+    second: Explosion_Darkness_v1_A_spritesheet_171
+  - first:
+      213: -1327635741705965210
+    second: Explosion_Darkness_v1_A_spritesheet_172
+  - first:
+      213: -9190630693581079132
+    second: Explosion_Darkness_v1_A_spritesheet_173
+  - first:
+      213: -1374005083521576354
+    second: Explosion_Darkness_v1_A_spritesheet_174
+  - first:
+      213: 4473560702171167495
+    second: Explosion_Darkness_v1_A_spritesheet_175
+  - first:
+      213: 7283075259520506540
+    second: Explosion_Darkness_v1_A_spritesheet_176
+  - first:
+      213: -2933999976117019062
+    second: Explosion_Darkness_v1_A_spritesheet_177
+  - first:
+      213: -5015494382846124034
+    second: Explosion_Darkness_v1_A_spritesheet_178
+  - first:
+      213: -7747520173205877885
+    second: Explosion_Darkness_v1_A_spritesheet_179
+  - first:
+      213: 6665113224818652099
+    second: Explosion_Darkness_v1_A_spritesheet_180
+  - first:
+      213: -6321183921402382817
+    second: Explosion_Darkness_v1_A_spritesheet_181
+  - first:
+      213: -9187439283738032558
+    second: Explosion_Darkness_v1_A_spritesheet_182
+  - first:
+      213: -4990091490501768699
+    second: Explosion_Darkness_v1_A_spritesheet_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0305e65511e41024280b536e4a27b6dc
+      internalID: 325248519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff75ba9a62e4a64382f70903190f07d
+      internalID: 1819625806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1985dc7c23184cb4c8f5d9f986a32336
+      internalID: 232581771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e5aab35902f0f4db91fc68da1f2091
+      internalID: -1701151812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be55d9c513b23f4dbd0016e09578b5f
+      internalID: 224471760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f884d7898fddf445a33f41ca157d648
+      internalID: 212433887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1ca52bfe5f6045a781aa31156aaba
+      internalID: 968698900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf5741835b50694d802518dc61f0e6c
+      internalID: -1130125171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1809c417191c54bbeee55161f1ec56
+      internalID: 1337001772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b6461e30609074aabe18bf42c2b4ac
+      internalID: 1854022450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce406b8a47a7914a8f1721d1991f02a
+      internalID: -1129311240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73669f466f8a1c48829307dd55253c4
+      internalID: -728201727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f665b0145c9b2e6488f97ddc16ea60f5
+      internalID: 480239759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17178413d68331e48a647e3e145d6548
+      internalID: 835370521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff20e13fe4415e44b3c3341b042b41f
+      internalID: 375562460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c0d3e6ad1f674ab8a5ab901011dc8
+      internalID: 68999260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bd63f1c4cb96d4782053d0ef10e7a8
+      internalID: 1469592289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ca26c6137fd044cbb4784241f06eaa
+      internalID: 134438433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99531b14f4508e4296102d7816d24e4
+      internalID: 2033773242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aada42921ef8b044587b9cf61ede65e4
+      internalID: -56972005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c149d8a4f422a498da9e7c86f6e0e3
+      internalID: 712441882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db78ca558128794a91955c41e9d4d35
+      internalID: 1022606513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf8ec201f0f5e48a8ab7c89a698f86
+      internalID: -138177354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5e24523bf8a854aa5d4310a9c8d5ff
+      internalID: -324841302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a043fc3872547584cb5fbdc8067c38e6
+      internalID: 1009499993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a982148d5638c4eac00a2a0bfec777
+      internalID: -641657018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad774f41a5da07409484ceb658c0ce5
+      internalID: 1736310840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385815a8a5a660e46aaea43139d9a5a5
+      internalID: -2138040224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20d3d3d4baf8444981a95eba19a39c
+      internalID: -2049811551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65790b8579240784a896afde2d8f4ecd
+      internalID: -2027105951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982ba3bffd476014ea6dfe60b1d916b1
+      internalID: -832464761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa68c83d0329c743a814e5cb59ce0b1
+      internalID: 1410406299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44266ebdfa790343a6323d2c7baef08
+      internalID: -1945533248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbed5c0a2716324297d0c312e4682b9
+      internalID: 936563303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70bfa3a85f3ec44aabd7bba3a2eb49
+      internalID: 547720920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e20462ee607454fb1543aa7a542350
+      internalID: 565332294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2824f0917ad68d946892a67b3d6a90a9
+      internalID: 727625664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b23cd2d8191841b0566da35331f43
+      internalID: -1351726948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d98f112b1a1a4ab61463acd253ac0
+      internalID: 1195008379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece57f672c5100469530ae40b3085c8
+      internalID: 2098810262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed35f20e6a3b46d488dab2a1ddb7113e
+      internalID: -396930539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ea8419c8d58c04c80d716755553481
+      internalID: -610921967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2743e7da8cf6e408d1f6402459fd96
+      internalID: -1804880155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b78a01ac3eed04ba08fe1216f9224a
+      internalID: 1361213217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a3c7bd9e9c4ec4ebfcba9e8785d6a1
+      internalID: 1408259440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfdea01e91e7aa448784804e7996613
+      internalID: 234476390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c26984cfde214418633ffac22b0a7d
+      internalID: 585116872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92e7bf3879e4543a4cc0bb9ae08f8c
+      internalID: -432107535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35002d800365ea74aaab6307f309c3c6
+      internalID: 861705858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f773ebfd140c84e8b4e81b9947c48b
+      internalID: 1676894040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d912ae21ff5fce45b6a259619b7355b
+      internalID: -651846191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa85f5a57d9be947ba854a8e45df6a8
+      internalID: 1627173863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae6f117cb677140a6df641843af283
+      internalID: 350891529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83da23b08a8e5884780d9ffd09870f2f
+      internalID: 468542939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b57e726e33f5340ab59a7fbb92c372
+      internalID: -1737637819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c66cf9e44bc9644ab508a03504fed0
+      internalID: -443307605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c0805725b95847882ea47e62e3d1a
+      internalID: -87050657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f9714a584c1b44e8a8455acbc58acc
+      internalID: 18188353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ec00104768eb4692918e7a5698321
+      internalID: -1783849812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05e1d95deae9394d8a61187457209c9
+      internalID: -325193308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cfa6f01a5e1141b717363a5775bb0
+      internalID: 1528962967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explosion_Darkness_v1_A_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8027b296a9daf534a85cfaabd960675b
+      internalID: 1005258333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4c3f9cf080e2c45498dee6d59905dc05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Explosion_Darkness_v1_A_spritesheet_0: 325248519
+      Explosion_Darkness_v1_A_spritesheet_1: 1819625806
+      Explosion_Darkness_v1_A_spritesheet_10: -1129311240
+      Explosion_Darkness_v1_A_spritesheet_11: -728201727
+      Explosion_Darkness_v1_A_spritesheet_12: 480239759
+      Explosion_Darkness_v1_A_spritesheet_13: 835370521
+      Explosion_Darkness_v1_A_spritesheet_14: 375562460
+      Explosion_Darkness_v1_A_spritesheet_15: 68999260
+      Explosion_Darkness_v1_A_spritesheet_16: 1469592289
+      Explosion_Darkness_v1_A_spritesheet_17: 134438433
+      Explosion_Darkness_v1_A_spritesheet_18: 2033773242
+      Explosion_Darkness_v1_A_spritesheet_19: -56972005
+      Explosion_Darkness_v1_A_spritesheet_2: 232581771
+      Explosion_Darkness_v1_A_spritesheet_20: 712441882
+      Explosion_Darkness_v1_A_spritesheet_21: 1022606513
+      Explosion_Darkness_v1_A_spritesheet_22: -138177354
+      Explosion_Darkness_v1_A_spritesheet_23: -324841302
+      Explosion_Darkness_v1_A_spritesheet_24: 1009499993
+      Explosion_Darkness_v1_A_spritesheet_25: -641657018
+      Explosion_Darkness_v1_A_spritesheet_26: 1736310840
+      Explosion_Darkness_v1_A_spritesheet_27: -2138040224
+      Explosion_Darkness_v1_A_spritesheet_28: -2049811551
+      Explosion_Darkness_v1_A_spritesheet_29: -2027105951
+      Explosion_Darkness_v1_A_spritesheet_3: -1701151812
+      Explosion_Darkness_v1_A_spritesheet_30: -832464761
+      Explosion_Darkness_v1_A_spritesheet_31: 1410406299
+      Explosion_Darkness_v1_A_spritesheet_32: -1945533248
+      Explosion_Darkness_v1_A_spritesheet_33: 936563303
+      Explosion_Darkness_v1_A_spritesheet_34: 547720920
+      Explosion_Darkness_v1_A_spritesheet_35: 565332294
+      Explosion_Darkness_v1_A_spritesheet_36: 727625664
+      Explosion_Darkness_v1_A_spritesheet_37: -1351726948
+      Explosion_Darkness_v1_A_spritesheet_38: 1195008379
+      Explosion_Darkness_v1_A_spritesheet_39: 2098810262
+      Explosion_Darkness_v1_A_spritesheet_4: 224471760
+      Explosion_Darkness_v1_A_spritesheet_40: -396930539
+      Explosion_Darkness_v1_A_spritesheet_41: -610921967
+      Explosion_Darkness_v1_A_spritesheet_42: -1804880155
+      Explosion_Darkness_v1_A_spritesheet_43: 1361213217
+      Explosion_Darkness_v1_A_spritesheet_44: 1408259440
+      Explosion_Darkness_v1_A_spritesheet_45: 234476390
+      Explosion_Darkness_v1_A_spritesheet_46: 585116872
+      Explosion_Darkness_v1_A_spritesheet_47: -432107535
+      Explosion_Darkness_v1_A_spritesheet_48: 861705858
+      Explosion_Darkness_v1_A_spritesheet_49: 1676894040
+      Explosion_Darkness_v1_A_spritesheet_5: 212433887
+      Explosion_Darkness_v1_A_spritesheet_50: -651846191
+      Explosion_Darkness_v1_A_spritesheet_51: 1627173863
+      Explosion_Darkness_v1_A_spritesheet_52: 350891529
+      Explosion_Darkness_v1_A_spritesheet_53: 468542939
+      Explosion_Darkness_v1_A_spritesheet_54: -1737637819
+      Explosion_Darkness_v1_A_spritesheet_55: -443307605
+      Explosion_Darkness_v1_A_spritesheet_56: -87050657
+      Explosion_Darkness_v1_A_spritesheet_57: 18188353
+      Explosion_Darkness_v1_A_spritesheet_58: -1783849812
+      Explosion_Darkness_v1_A_spritesheet_59: -325193308
+      Explosion_Darkness_v1_A_spritesheet_6: 968698900
+      Explosion_Darkness_v1_A_spritesheet_60: 1528962967
+      Explosion_Darkness_v1_A_spritesheet_61: 1005258333
+      Explosion_Darkness_v1_A_spritesheet_7: -1130125171
+      Explosion_Darkness_v1_A_spritesheet_8: 1337001772
+      Explosion_Darkness_v1_A_spritesheet_9: 1854022450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

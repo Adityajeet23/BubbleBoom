@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\Bubble\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|d:\\unity project\\bubble\\assets\\scripts\\persistentbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|d:\\unity project\\bubble\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\twoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\twoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\twoplayerpause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\twoplayerpause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\buttonclickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonclickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\destroyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroyeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\buttonsoundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsoundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\bulletexplosion2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletexplosion2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\Bubble\\Assets\\ArrowKeysForCanvas\\ArrowKeysForCanvas\\CanvasArrowKeyMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ArrowKeysForCanvas\\ArrowKeysForCanvas\\CanvasArrowKeyMover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Bubble\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersistentBGM.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PersistentBGM.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentBGM.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PersistentBGM.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PersistentBGM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:44:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwoPlayerPause.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\TwoPlayerPause.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TwoPlayerPause.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\TwoPlayerPause.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TwoPlayerPause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:49:29.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExitButton.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\ExitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitButton.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\ExitButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:51:36.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ButtonSoundManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\ButtonSoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonSoundManager.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\ButtonSoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonSoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T14:44:54.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameFlowManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\GameFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameFlowManager.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\GameFlowManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameFlowManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:27:08.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CanvasArrowKeyMover.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\ArrowKeysForCanvas\\ArrowKeysForCanvas\\CanvasArrowKeyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\ArrowKeysForCanvas\\ArrowKeysForCanvas\\CanvasArrowKeyMover.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\ArrowKeysForCanvas\\ArrowKeysForCanvas\\CanvasArrowKeyMover.cs",
+              "RelativeToolTip": "Assets\\ArrowKeysForCanvas\\ArrowKeysForCanvas\\CanvasArrowKeyMover.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:47:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:52:04.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Destroyeffect.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\Destroyeffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Destroyeffect.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\Destroyeffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Destroyeffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:07:24.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseManager.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:56:28.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TwoPlayerController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\TwoPlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TwoPlayerController.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\TwoPlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TwoPlayerController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAqwJEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T09:57:06.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonClickHandler.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\ButtonClickHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonClickHandler.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\ButtonClickHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonClickHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T08:48:44.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BulletExplosion2D.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\BulletExplosion2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletExplosion2D.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\BulletExplosion2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletExplosion2D.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:55:02.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T07:34:56.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAEwLcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:46:59.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControl.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControl.cs",
+              "ToolTip": "D:\\Unity Project\\Bubble\\Assets\\Scripts\\PlayerControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControl.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:56:25.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

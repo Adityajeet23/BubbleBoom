@@ -1,0 +1,151 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ButtonClickHandler">
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+			<method name="LoadScene"/>
+		</type>
+		<type fullname="ButtonSoundManager">
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+		</type>
+		<type fullname="ExitButton">
+			<method name="ExitGame"/>
+		</type>
+		<type fullname="GameFlowManager">
+			<method name="StartGame"/>
+			<method name="StartGame"/>
+			<method name="StartGame"/>
+			<method name="StartGame"/>
+		</type>
+		<type fullname="PauseManager">
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="TogglePause"/>
+			<method name="TogglePause"/>
+			<method name="TogglePause"/>
+		</type>
+		<type fullname="TwoPlayerPause">
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="TogglePause"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>

@@ -1,0 +1,646 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1737737881409202, "dur":52, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737881409315, "dur":45627, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737881454950, "dur":356, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737881455403, "dur":1330, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737881456923, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1737737881457621, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1737737881458207, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1737737881458618, "dur":209, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1737737881459170, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1737737881456796, "dur":5639, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737881462436, "dur":4709909, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737886172347, "dur":416, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737886172763, "dur":72, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737886172991, "dur":90, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737886173262, "dur":2394, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1737737881456303, "dur":6147, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737737881470080, "dur":1185, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1737737881471265, "dur":7541, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1737737881478807, "dur":120, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1737737881478928, "dur":1617, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1737737881480545, "dur":103, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":1, "ts":1737737881480649, "dur":254, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.29f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1737737881480904, "dur":125, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1737737881462465, "dur":18644, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737737881481139, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/5856375121251127064.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1737737881481247, "dur":1670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker D:/Unity Project/Bubble/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1737737881482918, "dur":925, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1737737881484734, "dur":254683, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737881739477, "dur":754238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737882493733, "dur":34802, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737882528544, "dur":28024, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737882556586, "dur":95859, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737882652451, "dur":7676, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737882660132, "dur":318002, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1737737882978361, "dur":234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Project\\Bubble\\Library\\PackageCache\\com.unity.burst\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":1, "ts":1737737881484704, "dur":1493892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1737737882979807, "dur":3192350, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1737737881456768, "dur":5906, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881462684, "dur":3807, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881466492, "dur":3765, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881470257, "dur":10878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881481136, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1737737881481258, "dur":485, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881481750, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737881481857, "dur":454, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881482319, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881482470, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1737737881482523, "dur":2254, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1737737881484818, "dur":196285, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737881484787, "dur":196318, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737881681153, "dur":6061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737881687244, "dur":542887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737881687220, "dur":542914, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882230174, "dur":4759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882234980, "dur":50030, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882234940, "dur":50073, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882285059, "dur":3890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882288980, "dur":55621, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882288951, "dur":55653, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882344625, "dur":5304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882349959, "dur":102689, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882349934, "dur":102717, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882452697, "dur":3227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882455951, "dur":114073, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882455929, "dur":114098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882570077, "dur":2280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882572398, "dur":1496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882573919, "dur":138564, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882573899, "dur":138586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882712511, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1737737882713637, "dur":3458716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881456399, "dur":6085, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881462495, "dur":3669, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881466165, "dur":3535, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881469701, "dur":11429, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881481152, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1737737881481362, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881481488, "dur":825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1737737881482314, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881482481, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1737737881482534, "dur":2195, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737881484764, "dur":379856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881484739, "dur":379883, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881864660, "dur":3499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881868194, "dur":3038, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881868165, "dur":3069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881871252, "dur":3028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881874318, "dur":45013, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881874284, "dur":45050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881919387, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881921206, "dur":69346, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881921184, "dur":69370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881990640, "dur":8395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881999067, "dur":258738, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737881999042, "dur":258766, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882257821, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1737737882257899, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882261319, "dur":217559, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882261286, "dur":217595, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882478944, "dur":1673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882480639, "dur":163815, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882480620, "dur":163836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882644505, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1737737882646729, "dur":3525611, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881456490, "dur":6005, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881462504, "dur":3700, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881466204, "dur":3847, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881470051, "dur":11068, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881481130, "dur":530, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881481662, "dur":352, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881482020, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881482141, "dur":312, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881482458, "dur":2395, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881484887, "dur":67258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881484863, "dur":67286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881553437, "dur":11589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881565048, "dur":53671, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881565029, "dur":53692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881618745, "dur":7546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881626322, "dur":119236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881626294, "dur":119266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881745569, "dur":1074, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1737737881746651, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881749373, "dur":171190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881749350, "dur":171215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881920596, "dur":1884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881922505, "dur":64492, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881922484, "dur":64516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881987038, "dur":4865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881991933, "dur":81691, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737881991908, "dur":81719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882073681, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882075413, "dur":51268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882075391, "dur":51292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882126758, "dur":2939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882129726, "dur":68765, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882129702, "dur":68792, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882198533, "dur":1466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882200025, "dur":261826, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882200003, "dur":261851, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882461891, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882465310, "dur":172622, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882465277, "dur":172658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882637972, "dur":1494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1737737882639472, "dur":3532861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881456541, "dur":5966, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881462518, "dur":3554, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881466072, "dur":3473, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881469545, "dur":271, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881469817, "dur":11296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881481130, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":5, "ts":1737737881481210, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881481317, "dur":1276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1737737881482617, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881482679, "dur":2026, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1737737881484751, "dur":317971, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737881484716, "dur":318009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737881802777, "dur":5643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737881808450, "dur":205053, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737881808427, "dur":205079, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882013543, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882016895, "dur":90842, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882016867, "dur":90872, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882107767, "dur":2759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882110549, "dur":113460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882110530, "dur":113482, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882224052, "dur":1687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882225764, "dur":56286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882225744, "dur":56309, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882282082, "dur":3182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882285284, "dur":96353, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882285266, "dur":96373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882381682, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882383328, "dur":124152, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882383306, "dur":124177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882507522, "dur":4676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882512224, "dur":118800, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882512202, "dur":118825, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882631073, "dur":2771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1737737882633849, "dur":3538456, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881456591, "dur":5934, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881462537, "dur":3499, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881466037, "dur":3414, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881469451, "dur":1564, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881471016, "dur":10281, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881481298, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1737737881481375, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881481435, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1737737881481494, "dur":754, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881482255, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881482405, "dur":2294, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881484734, "dur":235149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881484700, "dur":235186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881719948, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881720010, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881721907, "dur":87605, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881721874, "dur":87640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881809525, "dur":113, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881812268, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881809644, "dur":2712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881812386, "dur":3922, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881812362, "dur":3949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881816359, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881817947, "dur":68130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881817905, "dur":68175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881886128, "dur":2162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881888313, "dur":48813, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881888294, "dur":48870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881937228, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737881937322, "dur":1599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881938952, "dur":264143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737881938926, "dur":264184, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882203120, "dur":180, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737882206194, "dur":247, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737882203307, "dur":3150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882206490, "dur":4894, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882206461, "dur":4925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882211431, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737882216676, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1737737882211522, "dur":5260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882216817, "dur":171713, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882216788, "dur":171744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882388583, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882390443, "dur":121254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882390421, "dur":121279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882511748, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882513357, "dur":146752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882513336, "dur":146775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882660144, "dur":1515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1737737882661663, "dur":3510789, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881456642, "dur":5916, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881462577, "dur":3676, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881466254, "dur":3361, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881469616, "dur":76, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881469692, "dur":11453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881481147, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1737737881481342, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881481460, "dur":318, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1737737881481779, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1737737881481906, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881482016, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881482101, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881482277, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881482509, "dur":2333, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881484892, "dur":393302, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881484854, "dur":393343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881878262, "dur":9008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881887297, "dur":60236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881887276, "dur":60260, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881949650, "dur":97, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737881947587, "dur":2179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881949795, "dur":331771, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737881949772, "dur":331796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882281582, "dur":215, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737882281803, "dur":3357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882285193, "dur":139008, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882285165, "dur":139039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882424245, "dur":3121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882427406, "dur":48686, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882427372, "dur":48723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882478442, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1737737882476131, "dur":2391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882478554, "dur":76337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882478527, "dur":76366, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882554930, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882556617, "dur":119695, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882556561, "dur":119754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882676354, "dur":1506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1737737882677864, "dur":3494752, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881456696, "dur":5939, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881462647, "dur":3740, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881466388, "dur":3768, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881470156, "dur":10960, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881481235, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881481358, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1737737881481506, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881481607, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1737737881481693, "dur":333, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881482033, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881482086, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1737737881482147, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881482341, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881482503, "dur":2292, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881484838, "dur":106773, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881484805, "dur":106808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881591626, "dur":175, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881591808, "dur":6700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881598536, "dur":85789, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881598514, "dur":85813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881684364, "dur":12980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881697380, "dur":123830, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881697349, "dur":123864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881821270, "dur":2621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881823916, "dur":47862, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881823896, "dur":47884, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881871803, "dur":6546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881878384, "dur":61291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881878353, "dur":61324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881939706, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881943233, "dur":47130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881943207, "dur":47159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881990383, "dur":164, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737881990554, "dur":6999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881997591, "dur":2117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881997558, "dur":2154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737881999755, "dur":1844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882001627, "dur":124839, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882001604, "dur":124865, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882126487, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1737737882126581, "dur":3238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882129841, "dur":51926, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882129822, "dur":51948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882181863, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882183477, "dur":339835, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882183454, "dur":339861, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882523376, "dur":2543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882525955, "dur":58029, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882525930, "dur":58058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882584061, "dur":1881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882585967, "dur":57706, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882585947, "dur":57728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882643715, "dur":2365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1737737882646084, "dur":3526391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881456761, "dur":5894, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881462667, "dur":3805, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881466473, "dur":3736, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881470210, "dur":10944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881481157, "dur":409, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1737737881481567, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881481623, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1737737881481971, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881482037, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881482104, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881482213, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881482354, "dur":170, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881482530, "dur":2232, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1737737881484790, "dur":142219, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881484773, "dur":142239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881627038, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881630406, "dur":241099, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881630376, "dur":241131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881871543, "dur":3639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881875209, "dur":81076, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881875186, "dur":81102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881956327, "dur":3228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881959584, "dur":385995, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737881959560, "dur":386020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737882345633, "dur":4683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737882350340, "dur":355268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737882350319, "dur":355291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737882705651, "dur":1599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1737737882707256, "dur":3465088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881456349, "dur":6116, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881462484, "dur":3335, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881465819, "dur":3614, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881469434, "dur":1751, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881471185, "dur":10081, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881481270, "dur":190, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1737737881481461, "dur":438, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881481909, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881481997, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881482070, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881482217, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881482388, "dur":2309, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1737737881484734, "dur":40791, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881484698, "dur":40830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881559503, "dur":5305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881564828, "dur":123527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881564811, "dur":123546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881688386, "dur":7392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881695810, "dur":332893, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737881695783, "dur":332923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882028755, "dur":2548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882031419, "dur":253861, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882031308, "dur":253974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882285301, "dur":3594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882288932, "dur":76599, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882288901, "dur":76633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882365585, "dur":3212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882368823, "dur":63947, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882368801, "dur":63972, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882432868, "dur":1716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882434609, "dur":163712, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882434590, "dur":163734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882598362, "dur":2615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1737737882600982, "dur":3571331, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881456812, "dur":5880, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881462702, "dur":3674, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881466377, "dur":3840, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881470218, "dur":10975, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881481194, "dur":483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1737737881481678, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881481734, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1737737881481793, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881481855, "dur":427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881482283, "dur":179, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881482466, "dur":2406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881484912, "dur":40956, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881484890, "dur":40980, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881525901, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881560192, "dur":4104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881564325, "dur":53809, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881564302, "dur":53836, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881618175, "dur":5079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881623283, "dur":116542, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881623259, "dur":116568, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881739839, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1737737881739917, "dur":3392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881743340, "dur":231567, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881743314, "dur":231596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881974948, "dur":2485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881977463, "dur":225069, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737881977438, "dur":225095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882202558, "dur":4390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882207004, "dur":55729, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882206952, "dur":55785, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882262825, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882264631, "dur":79592, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882264608, "dur":79618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882344265, "dur":2364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882346663, "dur":257234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882346633, "dur":257267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882603939, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1737737882605650, "dur":3566658, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881456874, "dur":5849, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881462732, "dur":3603, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881466336, "dur":3733, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881470069, "dur":11052, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881481130, "dur":498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737881481629, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881481806, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881481938, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881482101, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881482333, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881482589, "dur":2127, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1737737881484750, "dur":280597, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737881484726, "dur":280623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737881765415, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737881767377, "dur":338816, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737881767355, "dur":338841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882106249, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882108289, "dur":1693, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882108265, "dur":1720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882110031, "dur":1426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882111505, "dur":127664, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882111460, "dur":127711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882239198, "dur":1541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882240766, "dur":169509, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882240744, "dur":169534, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882410313, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882412403, "dur":38556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882412379, "dur":38585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882451015, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882453058, "dur":199407, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882453029, "dur":199439, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882652515, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1737737882654046, "dur":3518301, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881456948, "dur":5795, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881462755, "dur":513, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.29f1\\Editor\\Data\\il2cpp\\build\\deploy\\il2cpp.dll.config" }}
+,{ "pid":12345, "tid":13, "ts":1737737881462754, "dur":4034, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881466788, "dur":2122, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881468911, "dur":199, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881469110, "dur":1683, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881470793, "dur":10934, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881481729, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":13, "ts":1737737881481973, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881482179, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881482354, "dur":2347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737881484733, "dur":194440, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881484703, "dur":194472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881679203, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881681932, "dur":244254, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881681901, "dur":244287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881926227, "dur":1705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881927961, "dur":72071, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737881927937, "dur":72097, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882000058, "dur":2167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882002261, "dur":137615, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882002229, "dur":137649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882139917, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882141607, "dur":1398, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882141580, "dur":1427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882145513, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737882143038, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882145614, "dur":54602, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882145589, "dur":54629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882200258, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882201861, "dur":105786, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882201840, "dur":105810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882307741, "dur":3018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882310802, "dur":1242, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882310765, "dur":1281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882312081, "dur":3173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882315291, "dur":162202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882315259, "dur":162235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882477521, "dur":2541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882480087, "dur":135109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882480066, "dur":135133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882615216, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1737737882615284, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1737737882616993, "dur":3555343, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881457009, "dur":5750, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881462770, "dur":3836, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881466607, "dur":3682, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881470290, "dur":10896, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881481187, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":14, "ts":1737737881481353, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881481518, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1737737881481759, "dur":464, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881482237, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881482401, "dur":2512, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881484961, "dur":39381, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881484914, "dur":39431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881524911, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881530002, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881526513, "dur":3689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881530233, "dur":53593, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881530206, "dur":53623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881583842, "dur":177, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881584217, "dur":2894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881587159, "dur":74504, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881587117, "dur":74548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881661726, "dur":4694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881666456, "dur":170981, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881666427, "dur":171013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881837539, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881839192, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737881837661, "dur":1604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881839338, "dur":362725, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737881839294, "dur":362770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882202091, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882205606, "dur":296856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882205580, "dur":296885, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882502504, "dur":2274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882504811, "dur":69593, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882504784, "dur":69623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882576231, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1737737882574437, "dur":1868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882576330, "dur":153663, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882576310, "dur":153686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882730041, "dur":1444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1737737882731487, "dur":3440863, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881457051, "dur":5720, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881462793, "dur":2865, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881465659, "dur":3455, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881469114, "dur":1904, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881471018, "dur":10717, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881481736, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1737737881481854, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881481926, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881482039, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881482195, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881482392, "dur":2502, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881484975, "dur":134757, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881484902, "dur":134832, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881619761, "dur":6231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881626024, "dur":47366, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881625996, "dur":47398, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881673408, "dur":178, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881673594, "dur":5070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881678696, "dur":66139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881678669, "dur":66169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881744848, "dur":133, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881744988, "dur":1892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881746900, "dur":3308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881750245, "dur":162654, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881750212, "dur":162690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881912921, "dur":258, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737881913189, "dur":2387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881915674, "dur":237768, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737881915582, "dur":238024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882153619, "dur":191, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737882153818, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882156316, "dur":212415, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882156295, "dur":212438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882368745, "dur":158, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737882370281, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737882368910, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882370375, "dur":106735, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882370352, "dur":106761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882477143, "dur":4096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882481275, "dur":3774, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882481243, "dur":3810, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882485071, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737882489910, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1737737882485173, "dur":4876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882490127, "dur":99906, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882490054, "dur":99982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882590085, "dur":4167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882594280, "dur":129986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882594258, "dur":130010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882724301, "dur":1212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":15, "ts":1737737882725516, "dur":3447147, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881457108, "dur":5694, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881462803, "dur":3934, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881469604, "dur":561, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.29f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.ComponentModel.EventBasedAsync.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881466738, "dur":3579, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881470317, "dur":11078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881481397, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1737737881481564, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881481679, "dur":450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1737737881482130, "dur":240, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881482375, "dur":2329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881484732, "dur":122821, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881484704, "dur":122853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881607702, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881607765, "dur":2645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881610440, "dur":50003, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881610415, "dur":50031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881660488, "dur":2366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881662901, "dur":63280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881662859, "dur":63325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881731535, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737881726237, "dur":5391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881731662, "dur":85177, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881731633, "dur":85210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881816882, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881818298, "dur":52867, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881818280, "dur":52888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881871206, "dur":2868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881874168, "dur":184854, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737881874081, "dur":184944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882059092, "dur":2556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882061675, "dur":92833, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882061653, "dur":92857, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882154535, "dur":1206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882155771, "dur":81157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882155746, "dur":81185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882236963, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882238866, "dur":57546, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882238837, "dur":57578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882296461, "dur":2517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882299005, "dur":90411, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882298983, "dur":90436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882389443, "dur":7710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882397185, "dur":139856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882397161, "dur":139892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882537115, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882538893, "dur":438926, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882538867, "dur":438955, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882977834, "dur":130, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1737737882977973, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/saksh/Downloads/BubbleBoom/BubbleBoom_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1737737882980698, "dur":3191636, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1737737886178428, "dur":1365, "ph":"X", "name": "ProfilerWriteOutput" }
+,
