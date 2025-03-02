@@ -116,7 +116,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
-    - TMPro.TMP_SubMeshUI
     - TMPro.TextMeshProUGUI
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
@@ -150,7 +149,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
-    - UnityEngine.UI.LayoutElement
     - UnityEngine.UI.Slider
     - UnityEngine.UI.VerticalLayoutGroup
   serializedClasses:
@@ -3310,4 +3308,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Medium.unity
   - Assets/Scenes/Hard.unity
   - Assets/Scenes/Dual.unity
-  playerPath: C:/Users/saksh/Downloads/Bubble Boom/BubbleBoom.exe
+  playerPath: C:/Users/saksh/Downloads/Boom/BubbleBoom.exe

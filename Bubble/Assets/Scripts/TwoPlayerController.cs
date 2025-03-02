@@ -132,9 +132,9 @@ public class TwoPlayerController : MonoBehaviour
 
         // Flip the player based on movement direction
         if (moveDirection < 0)
-            player2.transform.localScale = new Vector3(-1.8f, 1.8f, 1f); // Face left
+            player2.transform.localScale = new Vector3(1.8f, 1.8f, 1f); // Face left
         else if (moveDirection > 0)
-            player2.transform.localScale = new Vector3(1.8f, 1.8f, 1f); // Face right
+            player2.transform.localScale = new Vector3(-1.8f, 1.8f, 1f); // Face right
 
         // Jump
         isGrounded2 = Physics2D.OverlapCircle(groundCheck2.position, groundCheckRadius, groundLayer);
