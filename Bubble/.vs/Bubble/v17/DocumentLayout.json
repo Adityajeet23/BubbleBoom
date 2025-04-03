@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\assets\\scripts\\twoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|d:\\unity project\\boom\\bubbleboom\\bubble\\assets\\scripts\\twoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\twoplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|d:\\unity project\\boom\\bubbleboom\\bubble\\assets\\scripts\\persistentbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\assets\\scripts\\persistentbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\persistentbgm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{010A466C-43F2-F1AA-8067-4D9CE5EB3145}|Assembly-CSharp.csproj|D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\assets\\scripts\\playercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,11 +69,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PersistentBGM.cs",
               "DocumentMoniker": "D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\Assets\\Scripts\\PersistentBGM.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PersistentBGM.cs",
@@ -81,8 +81,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PersistentBGM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T16:44:30.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T16:44:30.302Z"
             },
             {
               "$type": "Document",
@@ -181,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TwoPlayerController.cs",
               "DocumentMoniker": "D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\Assets\\Scripts\\TwoPlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TwoPlayerController.cs",
@@ -230,15 +229,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
               "ToolTip": "D:\\Unity Project\\Boom\\BubbleBoom\\Bubble\\Assets\\Scripts\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AgIAAK4AAAAAAAAAAAAEwLcAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T17:46:59.374Z"
+              "WhenOpened": "2025-01-21T17:46:59.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
